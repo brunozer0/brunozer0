@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Bruno. 👋
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://brunozer0.github.io/Portfolio/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://brunozer0.github.io/Portfolio/)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://brunozer0.github.io/Portfolio/) 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunozer0&show_icons=true&theme=dracula)
 
