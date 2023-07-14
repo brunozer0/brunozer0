@@ -1,3 +1,3 @@
 ### Hello, I'm Bruno. 
-### Currently, systems development student.
+### Enthusiastic and curious. Currently, systems development student. 📚
 
